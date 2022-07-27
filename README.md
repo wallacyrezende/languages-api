@@ -1,19 +1,22 @@
-# Getting Started
+<div align="center">
+  <h1>API Linguagens de Programação</h1>
+  <p>API desenvolvida durante a Imersão Java da Alura.</p>
+</div>
 
-### Reference Documentation
+## ⚙️ Funcionalidades
+- GET de linguagens
+- POST de linguagens
+- PATCH de linguagens
+- DELETE de linguagens
 
-For further reference, please consider the following sections:
+## 🛠️ Tecnologias utilizadas
+- Java 18
+- Spring Boot 3
+- MongoDb
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.0.0-SNAPSHOT/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/3.0.0-SNAPSHOT/maven-plugin/reference/html/#build-image)
-* [Validation](https://docs.spring.io/spring-boot/docs/3.0.0-SNAPSHOT/reference/htmlsingle/#io.validation)
-* [Spring Data MongoDB](https://docs.spring.io/spring-boot/docs/3.0.0-SNAPSHOT/reference/htmlsingle/#data.nosql.mongodb)
+## 📒 Conteúdos da Imersão
+**Aulas 1, 2 e 3**: [Consumir API, exibir filmes e séries e criar um gerador de figurinhas](https://github.com/wallacyrezende/alura-stickers)
 
-### Guides
+**Aula 4**: construir uma API REST para expor o nosso próprio conteúdo, utilizando ferramentas profissionais como o Spring Framework e um banco de dados NoSQL.
 
-The following guides illustrate how to use some features concretely:
-
-* [Validation](https://spring.io/guides/gs/validating-form-input/)
-* [Accessing Data with MongoDB](https://spring.io/guides/gs/accessing-data-mongodb/)
-
+**Aula 5**: vamos tornar a nossa aplicação acessível por qualquer pessoa, fazendo o deploy na nuvem. Além disso, vamos gerar figurinhas a partir do conteúdo dessa nossa API.
